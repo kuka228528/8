@@ -1,0 +1,60 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\Peoples.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\Peoples.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\Peoples.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\МДК Приложение\Картинки\Peoples\Peoples\obj\Debug\Peoples.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\bin\Debug\Peoples.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\bin\Debug\Peoples.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\bin\Debug\Peoples.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\git\MDK\Люди\Peoples\Peoples\obj\Debug\Peoples.pdb
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\bin\Debug\Peoples.exe.config
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\bin\Debug\Peoples.exe
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\bin\Debug\Peoples.pdb
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.AssemblyReference.cache
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.Form1.resources
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.Form2.resources
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.Properties.Resources.resources
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.GenerateResource.cache
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.CopyComplete
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.exe
+C:\Users\Student2\Documents\GitHub\3\Новая папка\Peoples\Peoples\obj\Debug\Peoples.pdb
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\bin\Debug\Peoples.exe.config
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\bin\Debug\Peoples.exe
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\bin\Debug\Peoples.pdb
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.AssemblyReference.cache
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.Form1.resources
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.Form2.resources
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.Form3.resources
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.Properties.Resources.resources
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.GenerateResource.cache
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.csproj.CopyComplete
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.exe
+C:\Users\Student2\Documents\GitHub\8\Новая папка\Peoples\Peoples\obj\Debug\Peoples.pdb
